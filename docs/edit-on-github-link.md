@@ -1,4 +1,5 @@
 ## Edit on GitHub link
+<!-- Great blog. Thanks ->>
 
 The plugin also makes a tag available that generates links to edit the current page on GitHub.
 
